@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfetch",
+        "uuid": 36743144,
+        "checksum": "6z7onkj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
